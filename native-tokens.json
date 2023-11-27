@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Bitcoin",
+        "info": {
+            "name": "Bitcoin",
+            "website": "https://bitcoin.org",
+            "description": "Bitcoin is a cryptocurrency and worldwide payment system. It is the first decentralized digital currency, as the system works without a central bank or single administrator.",
+            "explorer": "https://blockchain.info",
+            "research": "https://research.binance.com/en/projects/bitcoin",
+            "symbol": "BTC",
+            "type": "coin",
+            "decimals": 8,
+            "status": "active",
+            "links": [
+                {
+                    "name": "github",
+                    "url": "https://github.com/bitcoin"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/Bitcoin"
+                },
+                {
+                    "name": "reddit",
+                    "url": "https://reddit.com/r/Bitcoin"
+                },
+                {
+                    "name": "whitepaper",
+                    "url": "https://bitcoin.org/bitcoin.pdf"
+                }
+            ]
+        },
+        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoin/info/logo.png",
+        "networks": ["Bitcoin"]
+    },
+    {
+        "name": "Ethereum",
+        "info": {
+            "name": "Ethereum",
+            "website": "https://ethereum.org/",
+            "description": "Open source platform to write and distribute decentralized applications.",
+            "explorer": "https://etherscan.io/",
+            "research": "https://research.binance.com/en/projects/ethereum",
+            "symbol": "ETH",
+            "type": "coin",
+            "decimals": 18,
+            "status": "active",
+            "tags": [
+                "dapp"
+            ],
+            "links": [
+                {
+                    "name": "github",
+                    "url": "https://github.com/ethereum"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/ethereum"
+                },
+                {
+                    "name": "reddit",
+                    "url": "https://reddit.com/r/ethereum"
+                },
+                {
+                    "name": "whitepaper",
+                    "url": "https://github.com/ethereum/wiki/wiki/White-Paper"
+                }
+            ]
+        },
+        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
+        "networks": ["Ethereum"]
+    },
+    {
+        "name": "Binance Coin",
+        "info": {
+            "name": "BNB Beacon Chain",
+            "website": "https://binance.org/",
+            "description": "Fast and secure decentralized digital asset exchange. The new crypto currency trading standard is here.",
+            "explorer": "https://explorer.binance.org/",
+            "research": "https://research.binance.com/en/projects/bnb",
+            "symbol": "BNB",
+            "type": "coin",
+            "decimals": 8,
+            "status": "active",
+            "tags": [
+                "staking-native"
+            ],
+            "links": [
+                {
+                    "name": "github",
+                    "url": "https://github.com/binance-chain/"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/binance_dex"
+                },
+                {
+                    "name": "reddit",
+                    "url": "https://reddit.com/r/BinanceExchange"
+                },
+                {
+                    "name": "whitepaper",
+                    "url": "https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf"
+                }
+            ]
+        },
+        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
+        "networks": ["Binance Smart Chain", "BSC Testnet"]
+    },
+    {
+        "name": "Polygon",
+        "info": {
+            "name": "Polygon",
+            "website": "https://polygon.technology/",
+            "short_description": "Polygon (Matic) strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem",
+            "description": "Polygon (Matic) strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem",
+            "explorer": "https://polygonscan.com/",
+            "research": "https://docs.matic.network/",
+            "type": "coin",
+            "symbol": "MATIC",
+            "rpc_url": "https://polygon-rpc.com",
+            "decimals": 18,
+            "status": "active",
+            "links": [
+                {
+                    "name": "github",
+                    "url": "https://github.com/maticnetwork/"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/0xPolygon"
+                },
+                {
+                    "name": "reddit",
+                    "url": "https://reddit.com/r/maticnetwork/"
+                },
+                {
+                    "name": "whitepaper",
+                    "url": "https://github.com/maticnetwork/whitepaper"
+                }
+            ]
+        },
+        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png",
+        "networks": ["Polygon"]
+    }
+]

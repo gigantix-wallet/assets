@@ -1,0 +1,30 @@
+{
+    "name": "BSC Testnet",
+    "tokens": [
+        {
+            "asset": "",
+            "type": "BEP20",
+            "address": "0x8301f2213c0eed49a7e28ae4c3e91722919b8b47",
+            "name": "Binance-Peg BUSD",
+            "symbol": "BUSD",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+            "pairs": []
+        },
+        {
+            "asset": "",
+            "type": "BEP20",
+            "address": "0x337610d27c682e347c9cd60bd4b3b107c9d34ddd",
+            "name": "Binance-Peg USDT",
+            "symbol": "USDT",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
+            "pairs": []
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
