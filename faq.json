@@ -51,7 +51,7 @@
     {
         "title": "What NFC tag type can support read by Gigantix Wallet?",
         "content": "List of NFC tag types can support read by Gigantix Wallet:",
-        "markupContent": "<ul class=\"ml-4 list-disc\"><li>NTAG 213</li><li>NTAG 215</li><li>NTAG 216</li><li>NTAG 424 DNA</li><li>NTAG 424 DNA TagTamper</li><li>NTAG 424 DNA TagTamper Roll</li><li>NTAG 424 DNA TagTamper Loop</li><li>NTAG 424 DNA TagTamper Loop Roll</li><li>NTAG 424 DNA TagTamper Loop 2</li><li>NTAG 424 DNA TagTamper Loop 2 Roll</li><li>NTAG 424 DNA TagTamper Loop 3</li><li>NTAG 424 DNA TagTamper Loop 3 Roll</li><li>NTAG 424 DNA TagTamper Loop 4</li><li>NTAG 424 DNA TagTamper Loop 4 Roll</li><li>NTAG 424 DNA TagTamper Loop 5</li><li>NTAG 424 DNA TagTamper Loop 5 Roll</li><li>NTAG 424 DNA TagTamper Loop 6</li><li>NTAG 424 DNA TagTamper Loop 6 Roll</li><li>NTAG 424 DNA TagTamper Loop 7</li><li>NTAG 424 DNA TagTamper Loop 7 Roll</li><li>NTAG 424 DNA TagTamper Loop 8</li><li>NTAG 424 DNA TagTamper Loop 8 Roll</li></ul>"
+        "markupContent": "<p>List of NFC tag types can support read by Gigantix Wallet:</p><ul><li>Ndef</li><li>FeliCa (iOS only)</li><li>Iso7816 (iOS only)</li><li>Iso15693 (iOS only)</li><li>MiFare (iOS only)</li><li>NfcA (Android only)</li><li>NfcB (Android only)</li><li>NfcF (Android only)</li><li>NfcV (Android only)</li><li>IsoDep (Android only)</li><li>MifareClassic (Android only)</li><li>MifareUtralight (Android only)</li><li>NdefFormatable (Android only)</li></ul><p>&nbsp;</p>"
     },
     {
         "title": "Where can I download Gigantix Wallet?",
