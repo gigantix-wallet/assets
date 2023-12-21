@@ -14,6 +14,21 @@
         "content": "Unique features of Gigantix Wallet include the ability to convert everyday NFC-enabled cards into cold wallets, user control over private keys, and the introduction of stylish NFC accessories like bracelets and rings that double as cold wallets."
     },
     {
+        "title": "If the NFC card is lost, what should be done?",
+        "content": "Please make sure you have backed up the private key of the wallet associated with the lost card.",
+        "markupContent": "<p>To ensure the safety of your wallet, it's essential to know how to back it up. Refer to our guide on&nbsp;<a href=\"https://medium.com/@gigantix.wallet/how-to-backup-your-wallet-on-gigantix-wallet-d09bae215a94\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>How to backup your wallet on Gigantix Wallet</strong></a></p>"
+    },
+    {
+        "title": "How to Recover your wallet after losing your NFC card?",
+        "content": "Gigantix Wallet has a feature for backing up wallets by allowing users to export their private wallet keys. For those of you who have lost access to the Gigantix Wallet application or lost your NFC-enabled card, and you have your private wallet key, you can still recover your wallet",
+        "markupContent": "<p>To learn how to Recover your wallet, please visit our detailed guide on&nbsp;<a href=\"https://medium.com/@gigantix.wallet/how-to-recover-or-import-private-key-in-metamask-d84cae5ad3d2\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>How to Recover or Import Private Key in Metamask</strong></a></p>"
+    },
+    {
+        "title": "How to Buy $GTX Token on Uniswap with Trust Wallet?",
+        "content": "Gigantix Wallet is a cryptocurrency wallet that allows you to securely store and manage various cryptocurrencies. Gigantix Wallet has an ecosystem token called GTX. GTX is a cryptocurrency token that you can purchase on Uniswap, a decentralized exchange using Trust Wallet",
+        "markupContent": "<p>To learn how to Buy $GTX Token, please visit our detailed guide on&nbsp;<a href=\"https://medium.com/@gigantix.wallet/how-to-buy-gtx-token-on-uniswap-with-trust-wallet-3e1d95979d23\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>How to Buy $GTX Token on Uniswap with Trust Wallet</strong></a></p>"
+    },
+    {
         "title": "How does Gigantix Wallet compare to traditional wallets?",
         "content": "Gigantix Wallet stands out from traditional wallets by offering seamless and convenient access using everyday cards, enhanced security against cyber threats, and user-friendly features."
     },
