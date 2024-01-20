@@ -1,0 +1,13 @@
+[
+  {
+    "chainId": 5,
+    "network": "Goerli",
+    "networkId": "Goerli",
+    "type": "ERC20",
+    "address": "0x8809dfdc6e0a5c2fa198370dd82447915afff425",
+    "name": "Goeli Test Token",
+    "symbol": "GTest",
+    "decimals": 18,
+    "logoURI": "https://storage.googleapis.com/gigantix-assets/gtx.png"
+  }
+]

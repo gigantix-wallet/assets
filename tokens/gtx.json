@@ -1,0 +1,11 @@
+{
+  "chainId": 1,
+  "network": "Ethereum",
+  "networkId": "ethereum",
+  "type": "ERC20",
+  "address": "0x1c001d1c9e8c7b8dc717c714d30b31480ab360f5",
+  "name": "Gigantix",
+  "symbol": "GTX",
+  "decimals": 18,
+  "logoURI": "https://storage.googleapis.com/gigantix-assets/gtx.png"
+}

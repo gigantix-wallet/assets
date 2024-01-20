@@ -1,0 +1,7 @@
+{
+  "version_ios": "1.0",
+  "version_android": "1.0",
+  "build_number_ios": "1",
+  "build_number_android": "1",
+  "version_note": "<p>What&#39;s new ?</p><p>- You can view the explorer for that token by clicking on the balance or its image.</p><p>-&nbsp;Validating ETH balance before engaging in a transaction in the staking feature.</p><p>- Pesky bugs have been exterminated, Countinue as you were</p><p>&nbsp;</p>"
+}
