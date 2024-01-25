@@ -10,8 +10,9 @@
       "ca-multicall": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696",
       "ca-staking": "0xF0BA817bAf42f4084BE06d11a8d24efE3e703D5B",
       "explorer": "https://etherscan.io",
-      "rpc": "https://eth-pokt.nodies.app",
-      "rpcs": ["https://ethereum.publicnode.com"],
+      "rpc": "https://ethereum.publicnode.com",
+      "wss": "wss://ethereum.publicnode.com",
+      "rpcs": ["https://eth-pokt.nodies.app"],
       "eip1559": true
     },
     {
@@ -24,8 +25,9 @@
       "ca-multicall": "0xC50F4c1E81c873B2204D7eFf7069Ffec6Fbe136D",
       "ca-staking": null,
       "explorer": "https://bscscan.com",
-      "rpc": "https://rpc.ankr.com/bsc",
-      "rpcs": ["https://bsc.publicnode.com"],
+      "rpc": "https://bsc.publicnode.com",
+      "wss": "wss://bsc.publicnode.com",
+      "rpcs": ["https://rpc.ankr.com/bsc"],
       "eip1559": false
     },
     {
@@ -38,7 +40,8 @@
       "ca-multicall": "0x275617327c958bD06b5D6b871E7f491D76113dd8",
       "ca-staking": null,
       "explorer": "https://polygonscan.com",
-      "rpc": "https://rpc.ankr.com/polygon",
+      "rpc": "https://polygon-bor.publicnode.com",
+      "wss": "wss://polygon-bor.publicnode.com",
       "rpcs": ["https://polygon-pokt.nodies.app"],
       "eip1559": true
     },
@@ -52,7 +55,8 @@
       "ca-multicall": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4",
       "ca-staking": null,
       "explorer": "https://snowtrace.io",
-      "rpc": "https://avax.meowrpc.com",
+      "rpc": "https://avalanche-c-chain.publicnode.com",
+      "wss": "wss://avalanche-c-chain.publicnode.com",
       "rpcs": ["https://endpoints.omniatech.io/v1/avax/mainnet/public"],
       "eip1559": true
     },
@@ -66,7 +70,8 @@
       "ca-multicall": "0xD98e3dBE5950Ca8Ce5a4b59630a5652110403E5c",
       "ca-staking": null,
       "explorer": "https://ftmscan.com",
-      "rpc": "\"https://ftmscan.com\"",
+      "rpc": "https://fantom.publicnode.com",
+      "wss": "wss://fantom.publicnode.com",
       "rpcs": ["https://rpcapi.fantom.network"],
       "eip1559": false
     },
@@ -80,7 +85,8 @@
       "ca-multicall": "0x842eC2c7D803033Edf55E478F461FC547Bc54EB2",
       "ca-staking": null,
       "explorer": "https://arbiscan.io",
-      "rpc": "https://1rpc.io/arb",
+      "rpc": "https://arbitrum-one.publicnode.com",
+      "wss": "wss://arbitrum-one.publicnode.com",
       "rpcs": ["https://endpoints.omniatech.io/v1/arbitrum/one/public"],
       "eip1559": true
     },
@@ -95,7 +101,8 @@
       "ca-staking": null,
       "explorer": "https://optimistic.etherscan.io",
       "rpc": "https://optimism.publicnode.com",
-      "rpcs": ["https://op-pokt.nodies.app\t"],
+      "wss": "wss://optimism.publicnode.com",
+      "rpcs": ["https://op-pokt.nodies.app"],
       "eip1559": true
     },
     {
@@ -109,6 +116,7 @@
       "ca-staking": null,
       "explorer": "https://goerli.etherscan.io",
       "rpc": "https://ethereum-goerli.publicnode.com",
+      "wss": "wss://ethereum-goerli.publicnode.com",
       "rpcs": ["https://endpoints.omniatech.io/v1/eth/goerli/public"],
       "eip1559": true
     },
@@ -123,6 +131,7 @@
       "ca-staking": null,
       "explorer": "https://testnet.bscscan.com",
       "rpc": "https://bsc-testnet.publicnode.com",
+      "wss": "wss://bsc-testnet.publicnode.com",
       "rpcs": ["https://endpoints.omniatech.io/v1/bsc/testnet/public"],
       "eip1559": false
     }
@@ -139,7 +148,9 @@
       "symbol": "ARB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/info/logo.png",
-      "inCarousel": true
+      "inCarousel": true,
+      "cmcId": "11841",
+      "chart": "BINANCE:ARBUSDT"
     },
     {
       "defaultId": "886a36af-1ece-477c-a6ce-b160ee5f9d78",
@@ -152,7 +163,9 @@
       "symbol": "MATIC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png",
-      "inCarousel": true
+      "inCarousel": true,
+      "cmcId": "3890",
+      "chart": "BINANCE:MATICUSDT"
     },
     {
       "defaultId": "29f5ca7e-707e-45b5-b403-e8c8cbb9b7c4",
@@ -165,7 +178,9 @@
       "symbol": "BNB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
-      "inCarousel": true
+      "inCarousel": true,
+      "cmcId": "1839",
+      "chart": "BINANCE:BNBUSDT"
     },
     {
       "defaultId": "5c8b8d1a-fa28-463f-9c33-50fcabd9bb37",
@@ -178,7 +193,9 @@
       "symbol": "ETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
-      "inCarousel": true
+      "inCarousel": true,
+      "cmcId": "1027",
+      "chart": "BINANCE:ETHUSDT"
     },
     {
       "defaultId": "d6f97f8f-66cd-453d-9f3e-fe1ae7f3989e",
@@ -191,7 +208,9 @@
       "symbol": "AVAX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/info/logo.png",
-      "inCarousel": true
+      "inCarousel": true,
+      "cmcId": "5805",
+      "chart": "BINANCE:AVAXUSDT"
     },
     {
       "defaultId": "22dc420c-aedd-4a8b-a7b9-125e51dc4c66",
@@ -204,7 +223,9 @@
       "symbol": "GTX",
       "decimals": 18,
       "logoURI": "https://storage.googleapis.com/gigantix-assets/gtx.png",
-      "inCarousel": true
+      "inCarousel": true,
+      "cmcId": "28685",
+      "chart": "UNISWAP:GTXWETH_FF4379.USD"
     }
   ]
 }

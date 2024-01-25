@@ -1,0 +1,114 @@
+[
+  {
+    "network": "Ethereum",
+    "networkId": "ethereum",
+    "tokens": [
+      {
+        "chainId": 1,
+        "network": "Ethereum",
+        "networkId": "ethereum",
+        "type": "ERC20",
+        "address": "0x1c001d1c9e8c7b8dc717c714d30b31480ab360f5",
+        "name": "Gigantix",
+        "symbol": "GTX",
+        "decimals": 18,
+        "logoURI": "https://storage.googleapis.com/gigantix-assets/gtx.png"
+      },
+      {
+        "chainId": 1,
+        "network": "Ethereum",
+        "networkId": "ethereum",
+        "type": "ERC20",
+        "address": "0x40e9187078032AfE1a30cfcF76E4fe3D7aB5c6C5",
+        "name": "AIgentX",
+        "symbol": "AIX",
+        "decimals": 18,
+        "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/aigentx.png"
+      },
+      {
+        "chainId": 1,
+        "network": "Ethereum",
+        "networkId": "ethereum",
+        "type": "ERC20",
+        "address": "0x37DA9DE38c4094e090c014325f6eF4baEB302626",
+        "name": "OTSea",
+        "symbol": "OTSea",
+        "decimals": 18,
+        "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/otsea.jpg"  
+      },
+      {
+        "chainId": 1,
+        "network": "Ethereum",
+        "networkId": "ethereum",
+        "type": "ERC20",
+        "address": "0x7F9b09f4717072CF4DC18b95D1b09E2B30C76790",
+        "name": "Vault Tech",
+        "symbol": "VAULT",
+        "decimals": 18,
+        "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/vaulttech.png"
+      },
+      {
+        "chainId": 1,
+        "network": "Ethereum",
+        "networkId": "ethereum",
+        "type": "ERC20",
+        "address": "0x4507cef57c46789ef8d1a19ea45f4216bae2b528",
+        "name": "TokenFi",
+        "symbol": "TOKEN",
+        "decimals": 18,
+        "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/tokenfi.jpeg"
+      }
+    ]
+  },
+  {
+    "network": "Binance Smart Chain",
+    "networkId": "smartchain",
+    "tokens": [
+      {
+        "chainId": 56,
+        "network": "Binance Smart Chain",
+        "networkId": "smartchain",
+        "type": "BEP20",
+        "address": "0xdafc45a82c3681d857c6ae36227998190a9b6798",
+        "name": "SOUL",
+        "symbol": "SOUL",
+        "decimals": 18,
+        "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/soul.png"
+      },
+      {
+        "chainId": 56,
+        "network": "Binance Smart Chain",
+        "networkId": "smartchain",
+        "type": "BEP20",
+        "address": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
+        "name": "Floki",
+        "symbol": "FLOKI",
+        "decimals": 18,
+        "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/floki.jpeg"
+      },
+      {
+        "chainId": 56,
+        "network": "Binance Smart Chain",
+        "networkId": "smartchain",
+        "type": "BEP20",
+        "address": "0x4507cef57c46789ef8d1a19ea45f4216bae2b528",
+        "name": "TokenFi",
+        "symbol": "TOKEN",
+        "decimals": 18,
+        "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/tokenfi.jpeg"
+      },
+      {
+        "chainId": 56,
+        "network": "Binance Smart Chain",
+        "networkId": "smartchain",
+        "type": "BEP20",
+        "address": "0x8C49A510756224E887B3D99d00D959F2d86Dda1c",
+        "name": "Realio Network",
+        "symbol": "RIO",
+        "decimals": 18,
+        "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/rio.jpeg"
+      }
+
+    ]
+  }
+]
