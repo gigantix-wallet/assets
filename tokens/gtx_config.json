@@ -144,13 +144,13 @@
       "networkId": "arbitrum",
       "type": "coin",
       "address": null,
-      "name": "Arbitrum",
-      "symbol": "ARB",
+      "name": "Ethereum",
+      "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/info/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
       "inCarousel": true,
       "cmcId": "11841",
-      "chart": "BINANCE:ARBUSDT"
+      "chart": "COINBASE:ETHUSD"
     },
     {
       "defaultId": "886a36af-1ece-477c-a6ce-b160ee5f9d78",

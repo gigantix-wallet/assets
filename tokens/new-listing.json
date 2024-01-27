@@ -1,11 +1,26 @@
-{
-  "chainId": 56,
-  "network": "Binance Smart Chain",
-  "networkId": "smartchain",
-  "type": "BEP20",
-  "address": "0xdafc45a82c3681d857c6ae36227998190a9b6798",
-  "name": "Soul",
-  "symbol": "SOUL",
-  "decimals": 18,
-  "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/soul.png"
-}
+[
+  {
+    "chainId": 56,
+    "network": "Binance Smart Chain",
+    "networkId": "smartchain",
+    "type": "BEP20",
+    "address": "0xdafc45a82c3681d857c6ae36227998190a9b6798",
+    "name": "Soul",
+    "symbol": "SOUL",
+    "decimals": 18,
+    "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/soul.png"
+  },
+  {
+    "chainId": 56,
+    "network": "Binance Smart Chain",
+    "networkId": "smartchain",
+    "type": "BEP20",
+    "address": "0x9521728bF66a867BC65A93Ece4a543D817871Eb7",
+    "name": "Creo Engine",
+    "symbol": "CREO",
+    "decimals": 18,
+    "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/creo.png",
+    "cmcId": "17000",
+    "chart": "MEXC:CREOUSDT"
+  }
+]

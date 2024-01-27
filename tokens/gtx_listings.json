@@ -72,7 +72,7 @@
         "address": "0xdafc45a82c3681d857c6ae36227998190a9b6798",
         "name": "SOUL",
         "symbol": "SOUL",
-        "decimals": 18,
+        "decimals": 9,
         "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/soul.png"
       },
       {
@@ -83,7 +83,7 @@
         "address": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
         "name": "Floki",
         "symbol": "FLOKI",
-        "decimals": 18,
+        "decimals": 9,
         "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/floki.jpeg"
       },
       {
@@ -94,7 +94,7 @@
         "address": "0x4507cef57c46789ef8d1a19ea45f4216bae2b528",
         "name": "TokenFi",
         "symbol": "TOKEN",
-        "decimals": 18,
+        "decimals": 9,
         "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/tokenfi.jpeg"
       },
       {
@@ -105,7 +105,7 @@
         "address": "0x8C49A510756224E887B3D99d00D959F2d86Dda1c",
         "name": "Realio Network",
         "symbol": "RIO",
-        "decimals": 18,
+        "decimals": 9,
         "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/rio.jpeg"
       }
 
