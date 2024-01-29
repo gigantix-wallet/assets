@@ -226,6 +226,37 @@
       "inCarousel": true,
       "cmcId": "28685",
       "chart": "UNISWAP:GTXWETH_FF4379.USD"
+    },
+    {
+      "defaultId": "cebbcb2d-19d7-48c4-a9bb-0cb98eae2903",
+      "chainId": 1,
+      "network": "Ethereum",
+      "networkId": "ethereum",
+      "type": "ERC20",
+      "address": "0x80d186b4c786ea66592b2c52e2004ab10cfe4cf3",
+      "name": "Lynx",
+      "symbol": "LYNX",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/lynx.png",
+      "cmcId": "3099",
+      "chart": "UNISWAP:LYNXWETH_0E7694",
+      "inCarousel": true
+    },
+    {
+      "defaultId": "2b46567a-6f2d-47bb-96a4-b9c08473086e",
+      "type": "BEP20",
+      "name": "SOUL",
+      "symbol": "SOUL",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/soul.png",
+      "chainId": 56,
+      "address": "0xdafc45a82c3681d857c6ae36227998190a9b6798",
+      "network": "Binance Smart Chain",
+      "networkId": "smartchain",
+      "createdAt": "2024-01-20T13:30:03.305Z",
+      "updatedAt": "2024-01-28T18:21:45.617Z",
+      "cmcId": "2827",
+      "chart": "PANCAKESWAP:SOULKIND_0B2E86.USD"
     }
   ]
 }

@@ -72,7 +72,7 @@
         "address": "0xdafc45a82c3681d857c6ae36227998190a9b6798",
         "name": "SOUL",
         "symbol": "SOUL",
-        "decimals": 9,
+        "decimals": 18,
         "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/soul.png"
       },
       {
@@ -108,7 +108,6 @@
         "decimals": 9,
         "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/rio.jpeg"
       }
-
     ]
   }
 ]
