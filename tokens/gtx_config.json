@@ -237,7 +237,7 @@
       "name": "Lynx",
       "symbol": "LYNX",
       "decimals": 18,
-      "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/lynx.png",
+      "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/lynx_black.png",
       "cmcId": "3099",
       "chart": "UNISWAP:LYNXWETH_0E7694",
       "inCarousel": true
@@ -256,7 +256,8 @@
       "createdAt": "2024-01-20T13:30:03.305Z",
       "updatedAt": "2024-01-28T18:21:45.617Z",
       "cmcId": "2827",
-      "chart": "PANCAKESWAP:SOULKIND_0B2E86.USD"
+      "chart": "PANCAKESWAP:SOULKIND_0B2E86.USD",
+      "inCarousel": true
     }
   ]
 }
