@@ -57,6 +57,17 @@
         "symbol": "TOKEN",
         "decimals": 18,
         "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/tokenfi.jpeg"
+      },
+      {
+        "chainId": 1,
+        "network": "Ethereum",
+        "networkId": "ethereum",
+        "type": "ERC20",
+        "address": "0x443459D45c30A03f90037d011CbE22e2183d3b12",
+        "name": "TypeAI",
+        "symbol": "TYPE",
+        "decimals": 18,
+        "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/typeai.png"
       }
     ]
   },
