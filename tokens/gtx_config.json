@@ -13,7 +13,8 @@
       "rpc": "https://ethereum.publicnode.com",
       "wss": "wss://ethereum.publicnode.com",
       "rpcs": ["https://eth-pokt.nodies.app"],
-      "eip1559": true
+      "eip1559": true,
+      "priceID": "ethereum"
     },
     {
       "id": "smartchain",
@@ -28,7 +29,8 @@
       "rpc": "https://bsc.publicnode.com",
       "wss": "wss://bsc.publicnode.com",
       "rpcs": ["https://rpc.ankr.com/bsc"],
-      "eip1559": false
+      "eip1559": false,
+      "priceID": "binancecoin"
     },
     {
       "id": "polygon",
@@ -43,7 +45,8 @@
       "rpc": "https://polygon-bor.publicnode.com",
       "wss": "wss://polygon-bor.publicnode.com",
       "rpcs": ["https://polygon-pokt.nodies.app"],
-      "eip1559": true
+      "eip1559": true,
+      "priceID": "matic-network"
     },
     {
       "id": "avalanchec",
@@ -58,7 +61,8 @@
       "rpc": "https://avalanche-c-chain.publicnode.com",
       "wss": "wss://avalanche-c-chain.publicnode.com",
       "rpcs": ["https://endpoints.omniatech.io/v1/avax/mainnet/public"],
-      "eip1559": true
+      "eip1559": true,
+      "priceID": "avalanche-2"
     },
     {
       "id": "fantom",
@@ -73,7 +77,8 @@
       "rpc": "https://fantom.publicnode.com",
       "wss": "wss://fantom.publicnode.com",
       "rpcs": ["https://rpcapi.fantom.network"],
-      "eip1559": false
+      "eip1559": false,
+      "priceID": "fantom"
     },
     {
       "id": "arbitrum",
@@ -88,12 +93,13 @@
       "rpc": "https://arbitrum-one.publicnode.com",
       "wss": "wss://arbitrum-one.publicnode.com",
       "rpcs": ["https://endpoints.omniatech.io/v1/arbitrum/one/public"],
-      "eip1559": true
+      "eip1559": true,
+      "priceID": "ethereum"
     },
     {
       "id": "optimism",
       "name": "Optimism",
-      "symbol": "ETH",
+      "symbol": "OP_ETH",
       "chainId": 10,
       "logoURI": "/chain/optimism.png",
       "decimals": 18,
@@ -103,7 +109,8 @@
       "rpc": "https://optimism.publicnode.com",
       "wss": "wss://optimism.publicnode.com",
       "rpcs": ["https://op-pokt.nodies.app"],
-      "eip1559": true
+      "eip1559": true,
+      "priceID": "ethereum"
     },
     {
       "id": "goerli",
@@ -118,7 +125,8 @@
       "rpc": "https://ethereum-goerli.publicnode.com",
       "wss": "wss://ethereum-goerli.publicnode.com",
       "rpcs": ["https://endpoints.omniatech.io/v1/eth/goerli/public"],
-      "eip1559": true
+      "eip1559": true,
+      "priceID": "goerli-eth"
     },
     {
       "id": "bsctestnet",
@@ -133,25 +141,11 @@
       "rpc": "https://bsc-testnet.publicnode.com",
       "wss": "wss://bsc-testnet.publicnode.com",
       "rpcs": ["https://endpoints.omniatech.io/v1/bsc/testnet/public"],
-      "eip1559": false
+      "eip1559": false,
+      "priceID": "binancecoin"
     }
   ],
   "defaultTokens": [
-    {
-      "defaultId": "632d97d5-e41a-4e0f-a1ce-6429860fe285",
-      "chainId": 42161,
-      "network": "Arbitrum",
-      "networkId": "arbitrum",
-      "type": "coin",
-      "address": null,
-      "name": "Ethereum",
-      "symbol": "ETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
-      "inCarousel": true,
-      "cmcId": "11841",
-      "chart": "COINBASE:ETHUSD"
-    },
     {
       "defaultId": "886a36af-1ece-477c-a6ce-b160ee5f9d78",
       "chainId": 137,
@@ -164,7 +158,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png",
       "inCarousel": true,
-      "cmcId": "3890",
+      "priceID": "matic-network",
       "chart": "BINANCE:MATICUSDT"
     },
     {
@@ -179,7 +173,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
       "inCarousel": true,
-      "cmcId": "1839",
+      "priceID": "binancecoin",
       "chart": "BINANCE:BNBUSDT"
     },
     {
@@ -194,7 +188,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
       "inCarousel": true,
-      "cmcId": "1027",
+      "priceID": "ethereum",
       "chart": "BINANCE:ETHUSDT"
     },
     {
@@ -209,7 +203,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/info/logo.png",
       "inCarousel": true,
-      "cmcId": "5805",
+      "priceID": "avalanche-2",
       "chart": "BINANCE:AVAXUSDT"
     },
     {
@@ -219,12 +213,12 @@
       "networkId": "ethereum",
       "type": "ERC20",
       "address": "0x1c001d1c9e8c7b8dc717c714d30b31480ab360f5",
-      "name": "Gigantix",
+      "name": "Gigantix Wallet Token",
       "symbol": "GTX",
       "decimals": 18,
       "logoURI": "https://storage.googleapis.com/gigantix-assets/gtx.png",
       "inCarousel": true,
-      "cmcId": "28685",
+      "priceID": "gigantix-wallet",
       "chart": "UNISWAP:GTXWETH_FF4379.USD"
     },
     {
@@ -238,9 +232,9 @@
       "symbol": "LYNX",
       "decimals": 18,
       "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/lynx_black.png",
-      "cmcId": "3099",
-      "chart": "UNISWAP:LYNXWETH_0E7694",
-      "inCarousel": true
+      "inCarousel": true,
+      "priceID": "lynx",
+      "chart": "UNISWAP:LYNXWETH_0E7694"
     },
     {
       "defaultId": "2b46567a-6f2d-47bb-96a4-b9c08473086e",
@@ -253,11 +247,9 @@
       "address": "0xdafc45a82c3681d857c6ae36227998190a9b6798",
       "network": "Binance Smart Chain",
       "networkId": "smartchain",
-      "createdAt": "2024-01-20T13:30:03.305Z",
-      "updatedAt": "2024-01-28T18:21:45.617Z",
-      "cmcId": "2827",
-      "chart": "PANCAKESWAP:SOULKIND_0B2E86.USD",
-      "inCarousel": true
+      "inCarousel": true,
+      "priceID": "kindness-for-the-soul-soul",
+      "chart": "PANCAKESWAP:SOULKIND_0B2E86.USD"
     }
   ]
 }

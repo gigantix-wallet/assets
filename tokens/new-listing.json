@@ -22,5 +22,28 @@
     "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/creo.png",
     "cmcId": "17000",
     "chart": "MEXC:CREOUSDT"
+  },
+  {
+    "type": "POLYGON",
+    "name": "Nakamoto games",
+    "symbol": "NAKA",
+    "decimals": 18,
+    "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/naka.png",
+    "address": "0x311434160D7537be358930def317AfB606C0D737",
+    "network": "Polygon",
+    "networkId": "polygon",
+    "cmcId": "nakamoto-games",
+    "chart": "KUCOIN:NAKAUSDT"
+  },
+  {
+    "type": "ERC20",
+    "name": "0xScans",
+    "symbol": "SCANS",
+    "decimals": 18,
+    "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/0xscan.png",
+    "address": "0x10703ca5e253306e2ababd68e963198be8887c81",
+    "network": "Ethereum",
+    "networkId": "ethereum",
+    "chart": "UNISWAP:SCANSWETH_B7A86C.USD"
   }
 ]
