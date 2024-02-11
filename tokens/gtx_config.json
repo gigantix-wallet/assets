@@ -12,7 +12,9 @@
       "explorer": "https://etherscan.io",
       "rpc": "https://ethereum.publicnode.com",
       "wss": "wss://ethereum.publicnode.com",
-      "rpcs": ["https://eth-pokt.nodies.app"],
+      "rpcs": [
+        "https://eth-pokt.nodies.app"
+      ],
       "eip1559": true,
       "priceID": "ethereum"
     },
@@ -28,7 +30,9 @@
       "explorer": "https://bscscan.com",
       "rpc": "https://bsc.publicnode.com",
       "wss": "wss://bsc.publicnode.com",
-      "rpcs": ["https://rpc.ankr.com/bsc"],
+      "rpcs": [
+        "https://rpc.ankr.com/bsc"
+      ],
       "eip1559": false,
       "priceID": "binancecoin"
     },
@@ -44,7 +48,9 @@
       "explorer": "https://polygonscan.com",
       "rpc": "https://polygon-bor.publicnode.com",
       "wss": "wss://polygon-bor.publicnode.com",
-      "rpcs": ["https://polygon-pokt.nodies.app"],
+      "rpcs": [
+        "https://polygon-pokt.nodies.app"
+      ],
       "eip1559": true,
       "priceID": "matic-network"
     },
@@ -60,7 +66,9 @@
       "explorer": "https://snowtrace.io",
       "rpc": "https://avalanche-c-chain.publicnode.com",
       "wss": "wss://avalanche-c-chain.publicnode.com",
-      "rpcs": ["https://endpoints.omniatech.io/v1/avax/mainnet/public"],
+      "rpcs": [
+        "https://endpoints.omniatech.io/v1/avax/mainnet/public"
+      ],
       "eip1559": true,
       "priceID": "avalanche-2"
     },
@@ -76,7 +84,9 @@
       "explorer": "https://ftmscan.com",
       "rpc": "https://fantom.publicnode.com",
       "wss": "wss://fantom.publicnode.com",
-      "rpcs": ["https://rpcapi.fantom.network"],
+      "rpcs": [
+        "https://rpcapi.fantom.network"
+      ],
       "eip1559": false,
       "priceID": "fantom"
     },
@@ -92,7 +102,9 @@
       "explorer": "https://arbiscan.io",
       "rpc": "https://arbitrum-one.publicnode.com",
       "wss": "wss://arbitrum-one.publicnode.com",
-      "rpcs": ["https://endpoints.omniatech.io/v1/arbitrum/one/public"],
+      "rpcs": [
+        "https://endpoints.omniatech.io/v1/arbitrum/one/public"
+      ],
       "eip1559": true,
       "priceID": "ethereum"
     },
@@ -108,7 +120,9 @@
       "explorer": "https://optimistic.etherscan.io",
       "rpc": "https://optimism.publicnode.com",
       "wss": "wss://optimism.publicnode.com",
-      "rpcs": ["https://op-pokt.nodies.app"],
+      "rpcs": [
+        "https://op-pokt.nodies.app"
+      ],
       "eip1559": true,
       "priceID": "ethereum"
     },
@@ -124,7 +138,9 @@
       "explorer": "https://goerli.etherscan.io",
       "rpc": "https://ethereum-goerli.publicnode.com",
       "wss": "wss://ethereum-goerli.publicnode.com",
-      "rpcs": ["https://endpoints.omniatech.io/v1/eth/goerli/public"],
+      "rpcs": [
+        "https://endpoints.omniatech.io/v1/eth/goerli/public"
+      ],
       "eip1559": true,
       "priceID": "goerli-eth"
     },
@@ -140,7 +156,9 @@
       "explorer": "https://testnet.bscscan.com",
       "rpc": "https://bsc-testnet.publicnode.com",
       "wss": "wss://bsc-testnet.publicnode.com",
-      "rpcs": ["https://endpoints.omniatech.io/v1/bsc/testnet/public"],
+      "rpcs": [
+        "https://endpoints.omniatech.io/v1/bsc/testnet/public"
+      ],
       "eip1559": false,
       "priceID": "binancecoin"
     }
@@ -213,7 +231,7 @@
       "networkId": "ethereum",
       "type": "ERC20",
       "address": "0x1c001d1c9e8c7b8dc717c714d30b31480ab360f5",
-      "name": "Gigantix Wallet Token",
+      "name": "Gigantix",
       "symbol": "GTX",
       "decimals": 18,
       "logoURI": "https://storage.googleapis.com/gigantix-assets/gtx.png",
@@ -239,7 +257,7 @@
     {
       "defaultId": "2b46567a-6f2d-47bb-96a4-b9c08473086e",
       "type": "BEP20",
-      "name": "SOUL",
+      "name": "Kindness For The Soul",
       "symbol": "SOUL",
       "decimals": 18,
       "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/soul.png",
@@ -250,6 +268,19 @@
       "inCarousel": true,
       "priceID": "kindness-for-the-soul-soul",
       "chart": "PANCAKESWAP:SOULKIND_0B2E86.USD"
+    },
+    {
+      "defaultId": "922a27ff-7f76-4ff4-85fe-cbb2c1daf070",
+      "type": "BEP20",
+      "name": "Kindness For The Soul",
+      "symbol": "KIND",
+      "decimals": 9,
+      "logoURI": "https://storage.googleapis.com/gigantix-assets/tokens/kind.png",
+      "chainId": 56,
+      "address": "0x05989ecbA308c5c89501862e8E131b7C49f5214d",
+      "network": "Binance Smart Chain",
+      "networkId": "smartchain",
+      "inCarousel": true
     }
   ]
 }
